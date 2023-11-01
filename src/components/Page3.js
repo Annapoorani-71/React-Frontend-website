@@ -110,7 +110,7 @@ function Page3() {
       <form onSubmit={handleSubmit} className="todo-form">
         <div>
           <label>Fetch Todo List:&nbsp;&nbsp;</label>
-          <br /><br /><br />
+          <br />
           <input
             type="text"
             name="title"
@@ -134,7 +134,7 @@ function Page3() {
           </li>
         ))}
       </ul>
-      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+      <br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
     </div>
   );
 }
