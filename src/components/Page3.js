@@ -119,7 +119,7 @@ function Page3() {
             onChange={handleChange}
           />
         </div>
-        <button type="submit" aria-required className='buttonadd'>Add</button>
+        <button type="submit" className='buttonadd'>Add</button>
       </form>
       <ul className="todo-list">
         {todos.map((todo) => (

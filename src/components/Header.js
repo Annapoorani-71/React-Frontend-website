@@ -26,8 +26,8 @@ function Header() {
                 Home
               </Link>
               <Link to="/about us">About us</Link>
-              <Link to="/page2">fetch</Link>
-              <Link to="/page3">Axios</Link>
+              <Link to="/page2">Axios</Link>
+              <Link to="/page3">Fetch</Link>
               <Link to="/login">Login</Link>
             </li>
           </ul>

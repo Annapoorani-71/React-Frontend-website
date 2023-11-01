@@ -1,7 +1,6 @@
 import Footer from './components/Footer';
 import './App.css';
 import Header from './components/Header';
-import Home from './components/Home';
 import { useState } from 'react';
 
 function App() {
@@ -16,9 +15,6 @@ function App() {
   const backgroundColor = theme === 'light' ? '#fff' : '#333';
   const textColor = theme === 'light' ? '#333' : '#fff';
 
-  const theme1 = {
-    backgroundColor: 'blue',
-  };
 
   return (
     <div style={{ backgroundColor, color: textColor }}>
