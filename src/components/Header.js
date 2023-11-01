@@ -19,7 +19,7 @@ function Header() {
     <Box sx={{ flexGrow: 1 }}>
       <AppBar position="static">
         <Toolbar>
-          <h2>VCET</h2>
+          <h2>CLG NAME</h2>
           <ul className="loginlink">
             <li>
               <Link to="/" className="links home-link">

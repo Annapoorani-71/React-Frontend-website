@@ -7,10 +7,7 @@ const About = () => {
       <div className="white-box">
         <h2>About Us</h2>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit
-          in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia
-          deserunt mollit anim id est laborum.
+        Every year, all our institutions maintain the set trend by achieving 100% pass results, and in the process secure overall State Ranks, Subject State Rank marks, etc. Our performance in academics is indeed praiseworthy, yet we do not tend to overlook co-curricular activities as well. Most of us are aware of the vital fact that of late, students are expected to fully equip themselves such that they are able to face the rigors of life at the global level. No doubt, the Trust spares no efforts, whatsoever, in this particular direction.
         </p>
       </div>
     </div>
